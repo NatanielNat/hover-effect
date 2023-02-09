@@ -66,7 +66,7 @@ body{
     background:#EE316B;
     color:#F9F7F1;
     box-shadow: 0 0 0 4px #F9F7F1,
-    0 0 0 300px var(--clr);
+    0 0 0 320px var(--clr);
 }
 .container .box .content .text h2{
     font-size:40px;
